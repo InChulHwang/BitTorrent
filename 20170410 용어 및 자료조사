@@ -25,7 +25,7 @@
 - P2P상에서 파일을 다운로드 하는 것은 여러개의 클라이언트들과 무수히 많은 세션들이 늘어남에 따라 다운로드 속도가 점진적으로 늘어나 클라이언트가 
 사용하는 인터넷 환경의 최대 대역폭까지 다운로드 속도가 증가한다.
 
-참고자료1 : P2P의 장단점 ![http://www.netmanias.com/ko/post/blog/5391/bittorrent-p2p/pros-and-cons-of-bittorrent-p2p] 
+참고자료1 : P2P의 장단점 http://www.netmanias.com/ko/post/blog/5391/bittorrent-p2p/pros-and-cons-of-bittorrent-p2p
 참고자료2 : BitTorrent 프로토콜의 동작원리 [http://www.netmanias.com/ko/post/techdocs/5185/bittorrent-p2p/understanding-of-the-bittorrent-protocol]
 
 
